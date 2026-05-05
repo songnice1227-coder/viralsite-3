@@ -1,0 +1,5 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+firebase-admin==6.5.0
+anthropic==0.49.0
+httpx==0.27.2
